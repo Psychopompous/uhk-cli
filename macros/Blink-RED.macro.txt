@@ -1,0 +1,3 @@
+set backlight.constantRgb.rgb 250 0 0
+delayUntil 3000
+set backlight.strategy functional
